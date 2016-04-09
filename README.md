@@ -1,4 +1,4 @@
-# go-simple-log
+# golog
 
 Very simple logging wrapper for golang.
 This is not meant for production or every use case.

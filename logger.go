@@ -1,4 +1,4 @@
-package log;
+package golog;
 
 // Fairly shallow logging wrapper for whatever logging library we go with.
 // The only additional functionality is Panic() and PanicE().
